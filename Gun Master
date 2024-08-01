@@ -1,3 +1,5 @@
+#Your task is to determine the minimum number of times you need to switch between the two guns to shoot all N targets in the given order.
+
 T = int(input())  # Number of test cases
 
 for _ in range(T):
