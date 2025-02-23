@@ -1,24 +1,29 @@
-# Codechef_Competition_Submissions
+# CodeChef Competition Submissions
 
-CodeChef Submissions
-This repository contains solutions to various programming problems submitted on CodeChef. The solutions are organized by contest and problem categories, and are written in multiple programming languages.
+Welcome to my repository of solutions to various competitive programming problems submitted on CodeChef. This repository serves as a personal archive for improving coding skills, exploring algorithmic challenges, and sharing alternative solutions.
 
-Table of Contents
-About
-Directory Structure
-Languages Used
-How to Use
-Contributing
-License
-Contact
-About
-This repository serves as a collection of my solutions to competitive programming problems from CodeChef. It is a personal archive intended for reference and improvement of coding skills.
+---
 
-Directory Structure
-The repository is organized as follows:
+## Table of Contents
+- [About](#about)
+- [Directory Structure](#directory-structure)
+- [Languages Used](#languages-used)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-css
-Copy code
+---
+
+## About
+
+This repository contains my solutions to competitive programming problems on CodeChef. The submissions are organized by contest and problem category and written primarily in C++, Python, and Java. Whether you're here to learn, compare approaches, or contribute, I hope you find these solutions insightful.
+
+---
+
+## Directory Structure
+
+```
 .
 ├── Contests/
 │   ├── [Contest_Name]/
@@ -29,58 +34,75 @@ Copy code
 │   │   ├── [Problem_Code].ext
 │   │   ├── ...
 └── README.md
-Contests/: Contains solutions submitted during various CodeChef contests.
-Practice/: Contains practice problem solutions categorized by difficulty level.
-[Contest_Name]/: Subdirectory for each contest, named after the contest.
-[Difficulty_Level]/: Subdirectory for each difficulty level (Easy, Medium, Hard, etc.).
-[Problem_Code].ext: Filename format where Problem_Code is the problem identifier and ext is the file extension corresponding to the programming language used.
-Languages Used
-The solutions are primarily written in:
+```
 
-C++
-Python
-Java
+- **Contests/**: Contains solutions submitted during various CodeChef contests. Each contest is organized in its own folder.
+- **Practice/**: Contains practice problem solutions categorized by difficulty level (e.g., Easy, Medium, Hard).
+- **[Problem_Code].ext**: The file naming convention where `Problem_Code` is the problem identifier and `ext` is the file extension corresponding to the programming language used.
+
+---
+
+## Languages Used
+
+The solutions in this repository are primarily written in:
+- **C++**
+- **Python**
+- **Java**
+
 Other languages may also be used depending on the problem requirements.
 
-How to Use
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/[Your_Username]/CodeChef-Submissions.git
-Navigate to the desired directory:
-bash
-Copy code
-cd CodeChef-Submissions/Contests/[Contest_Name]/
-Open the file corresponding to the problem you're interested in.
-Contributing
-Contributions are welcome! If you have alternative solutions, optimizations, or any improvements, feel free to open a pull request.
+---
 
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature/YourFeature
-Commit your changes:
-bash
-Copy code
-git commit -m 'Add some feature'
-Push to the branch:
-bash
-Copy code
-git push origin feature/YourFeature
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## How to Use
 
-Contact
-For any queries or suggestions, please feel free to contact me:
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/ShovalBenjer/Codechef_Competition_Submissions.git
+   ```
+2. **Navigate to the Desired Directory:**
+   ```bash
+   cd Codechef_Competition_Submissions/Contests/[Contest_Name]/
+   ```
+3. **Open the File:**
+   Open the file corresponding to the problem you're interested in with your preferred code editor.
 
-GitHub: Your_GitHub_Profile_Link
-Email: your.email@example.com
-You can copy this template into your README.md file, replacing placeholders like [Your_Username], [Contest_Name], and other details with your actual information.
+---
 
+## Contributing
 
+Contributions are welcome! If you have alternative solutions, optimizations, or improvements, please follow these steps:
 
+1. **Fork** the repository.
+2. **Create a new branch:**
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Commit your changes:**
+   ```bash
+   git commit -m "Add some feature"
+   ```
+4. **Push to the branch:**
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. **Open a Pull Request** with a clear description of your changes.
 
+---
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+
+For any queries or suggestions, feel free to reach out:
+- **GitHub:** [ShovalBenjer](https://github.com/ShovalBenjer)
+- **Email:** [Shovalb9@gmail.com](mailto:Shovalb9@gmail.com)
+
+You can also connect with me on:
+- **Kaggle:** [shovalbenjer](https://www.kaggle.com/shovalbenjer)
+- **LeetCode:** [Snakejazz24](https://leetcode.com/u/Snakejazz24/)
+- **CodeChef:** [shovalb9](https://www.codechef.com/users/shovalb9)
+```
